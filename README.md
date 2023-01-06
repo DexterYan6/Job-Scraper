@@ -1,3 +1,3 @@
 # Job-Scraper
 
-Used Python3 and Selenium to learn web scraping. Scraped job postings on Linkedin.
+Scrapes job postings on Linkedin. Uses Python3 and Selenium.
